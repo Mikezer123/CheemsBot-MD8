@@ -5,8 +5,8 @@ const fs = require("fs")
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
-global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.autokickmorroco = true //auto kick 212 (true to on, false to off) 
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -21,36 +21,36 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = [13025449902','919947121619'] //ur owner number
+global.ownernomer = "13025449902,919947121619" //ur owner number2
+global.ownername = "*✪⃝⸸ꜛꪶ͢𝐒𝐘͔𝐀𝐌 𝐒𝐄𝐑͢ꫂꜜ™*" //ur owner name
+global.ytname = "YT: illa" //ur yt chanel name
+global.socialm = "INSTAGRAM : _mr.fro_ud_" //ur github or insta name
+global.location = "India, Kerala, Palakkad" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.botname = "🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓"
+global.ownernumber = '13025449902,919947121619'
+global.ownername = '*✪⃝⸸ꜛꪶ͢𝐒𝐘͔𝐀𝐌 𝐒𝐄𝐑͢ꫂꜜ™*'
+global.ownerNumber = ["13025449902@s.whatsapp.net"]
+global.ownerweb = "https://instagram.com/_mr.fro_ud_?"
+global.websitex = "https://instagram.com/_mr.fro_ud_"
+global.wagc = "https://whatsapp.com/channel/0029VaIUDfsGehEFB7m8rh2Q"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.wm = "*✪⃝⸸ꜛꪶ͢𝐒𝐘͔𝐀𝐌 𝐒𝐄𝐑͢ꫂꜜ™* Inc."
+global.botscript = 'thran thalparym illa' //script link
 global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.author = "🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓\n\n"
+global.creator = "13025449902@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
 //media target
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.thum = fs.readFileSync("https://telegra.ph/file/6bcca8ad812e429d24dde.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.imgur.com/bHcmcvc.jpeg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/f89a97a65465401faf323.jpg") //ur thumb pic
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60' //default pp wa
 
 //menu image maker
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: 'ham chambikko!', 
 }
 
 let file = require.resolve(__filename)
